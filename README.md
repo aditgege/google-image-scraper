@@ -33,5 +33,5 @@ usage: scrape_image.py [-h] [--skip] [--threads] [--full]
 
 ---
 
-[MIT]()
+[MIT](https://github.com/loouislow81/google-image-scraper/blob/master/LICENSE)
 

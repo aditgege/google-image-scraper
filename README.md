@@ -33,5 +33,9 @@ usage: scrape_image.py [-h] [--skip] [--threads] [--full]
 
 ---
 
+> Those who are using the opensource tool that I created. Brings happiness, eliminate troubles, and plant the seeds of Buddha, after all, they are free from suffering. Namo Amitabha. 凡是用了我所创造的布施工具的众生，都得开开心心的，烦恼消灭，皆种成佛种子，毕竟离苦得乐。南无阿弥佗佛。
+
+---
+
 [MIT](https://github.com/loouislow81/google-image-scraper/blob/master/LICENSE)
 
